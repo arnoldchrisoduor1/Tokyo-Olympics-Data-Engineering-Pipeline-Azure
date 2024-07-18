@@ -6,4 +6,6 @@
 
  - Data source was from this githubrepo/data ingested by azure data factory.
 
+Aim of the project was to build the data pipeline and not necessarily the data transformations present in the notebook.
+
 Follow me @  `arnold0duor`
